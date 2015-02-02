@@ -19,26 +19,10 @@
     </head>
     <body>
         <div class="container">
-            <!-- Codrops top bar -->
-            <div class="codrops-top">
-                <a href="">
-                    <strong>&laquo; Previous Demo: </strong>Responsive Content Navigator
-                </a>
-                <span class="right">
-                    <a href=" http://tympanus.net/codrops/2012/03/27/login-and-registration-form-with-html5-and-css3/">
-                        <strong>Back to the Codrops Article</strong>
-                    </a>
-                </span>
-                <div class="clr"></div>
-            </div><!--/ Codrops top bar -->
+          
             <header>
-                <h1>Login and Registration Form <span>with HTML5 and CSS3</span></h1>
-				<nav class="codrops-demos">
-					<span>Click <strong>"Join us"</strong> to see the form switch</span>
-					<a href="index.html" class="current-demo">Demo 1</a>
-					<a href="index2.html">Demo 2</a>
-					<a href="index3.html">Demo 3</a>
-				</nav>
+                <h1>Attendance System</h1>
+			
             </header>
             <section>				
                 <div id="container_demo" >
@@ -57,16 +41,12 @@
                                     <label for="password" class="youpasswd" data-icon="p"> Your password </label>
                                     <input id="password" name="password" required="required" type="password" placeholder="eg. X8df!90EO" /> 
                                 </p>
-                                <p class="keeplogin"> 
-									<input type="checkbox" name="loginkeeping" id="loginkeeping" value="loginkeeping" /> 
-									<label for="loginkeeping">Keep me logged in</label>
-								</p>
+                              
                                 <p class="login button"> 
                                     <input type="submit" value="Login" /> 
 								</p>
                                 <p class="change_link">
-									Not a member yet ?
-									<a href="#toregister" class="to_register">Join us</a>
+									
 								</p>
                             </form>
                         </div>
